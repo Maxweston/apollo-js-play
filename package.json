@@ -1,0 +1,14 @@
+{
+  "name": "apollo-js-play",
+  "version": "1.0.0",
+  "description": "playing with apollo",
+  "main": "index.js",
+  "repository": "git@github.com:Maxweston/apollo-js-play.git",
+  "author": "Max Weston <max.weston2@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "graphql": "^14.0.2"
+  }
+}
